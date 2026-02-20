@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="SolidManagerBanner.png" alt="Solid Manager Pro Banner" width="466" height="262">
+  <img src="https://github.com/NeuralIO444/Solid-Manager-Pro/blob/main/SolidManagerBanner.png?raw=true" alt="Solid Manager Pro Banner" width="466" height="262">
   
   # Solid Manager Pro
 
