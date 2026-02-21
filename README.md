@@ -49,3 +49,13 @@ It is designed to handle massive enterprise-level projects with lightning-fast e
 ---
 
 > Built with care to rescue projects from Solid Folder Chaos.
+>
+## ⚠️ Liability & Warranty Disclaimer
+
+**USE AT YOUR OWN RISK.**
+Asset Assassin is a powerful tool that moves and standardizes hundreds of items within your After Effects project hierarchy. While designed with a safe 'Dry Run' mode, unforeseen plugin conflicts or interrupted executions can result in missing links or confused project structures if run directly on an active master without saving.
+
+*   **No Warranty:** This software is provided "as is" without warranty of any kind, express or implied.
+*   **No Liability:** The authors or copyright holders shall not be liable for any claim, damages, lost project files, missed deadlines, or other liability arising from the use of this software.
+*   **Best Practice:** ALWAYS save a distinct incremental version of your `.aep` project file before executing a live `Scan & Organize`.
+
